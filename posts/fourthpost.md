@@ -11,4 +11,9 @@ Organically grow the holistic world view of disruptive innovation via workplace 
 
 ![A sample inlined image](https://source.unsplash.com/random/600x400)
 
+
+Gulfstream-G400.jpg
+
+![Gulfstream G400](/static/img/Gulfstream-G400.jpg)
+
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
